@@ -1,0 +1,15 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+header, footer{
+    background-color: aqua;
+}
+.site-title{
+    color:crimson;
+}
+#my-image{
+    box-shadow: 0px,0px, 2px, 1px, black;
+    
+}
