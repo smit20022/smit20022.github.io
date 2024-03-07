@@ -29,11 +29,13 @@ header img {
     z-index: 1;
     position: absolute;
     bottom: 20%;
+    float: none;
 
     
 }
 
 h1 {
+    
     text-align: center;
     
     height: 100px;
@@ -69,4 +71,26 @@ article img {
     content: "";
     display:block;
     clear: both;
+}
+
+.box {
+    width: 580px;
+    height: 320px;
+    background-color: lavender;
+    padding: 1px;
+    border: 1px solid black;
+    margin: 10px;
+    box-sizing:border-box;
+    
+
+}
+h3 {
+    margin: 20px;
+}
+form {
+    margin: 20px;
+}
+footer {
+    text-align: right;
+    margin: 20px;
 }
