@@ -29,7 +29,7 @@ header img {
     z-index: 1;
     position: absolute;
     bottom: 20%;
-    float: none;
+    
 
     
 }
@@ -37,7 +37,7 @@ header img {
 h1 {
     
     text-align: center;
-    
+    float: center;
     height: 100px;
 }
 
