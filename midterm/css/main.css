@@ -20,25 +20,20 @@ header {
     z-index: 1;
     width: 600px;
     background-color: lavender;
+    background-image: url('../images/img_background.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-size: 600px 171px;
 
-}
-
-header img {
-    width: 600px;
-    height: 200px;
-    z-index: 1;
-    position: absolute;
-    bottom: 20%;
-    
-
-    
 }
 
 h1 {
-    
     text-align: center;
-    float: center;
+    margin-top: 50px;
+    float: inherit;
     height: 100px;
+    color: aliceblue;
 }
 
 nav li {
